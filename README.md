@@ -1,5 +1,5 @@
 # MarathonWeb
-	* Le script notebook et le model enrégistré se trouve dans le dossier CAC40
+	Le script notebook et le model enrégistré se trouve dans le dossier CAC40
 ## installation
 <pre><code>
  pip install plotly
@@ -10,7 +10,7 @@
 ### install flask
 * ref  : http://flask.pocoo.org/docs/0.12/installation/
 <pre><code>
-* sudo pip install Flask </code></pre>
+ sudo pip install Flask </code></pre>
 * Dans le repertoire du fichier prophet.py
 	<pre><code>
 	export FLASK_APP=prophet.py
