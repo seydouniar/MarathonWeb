@@ -1,5 +1,5 @@
 # MarathonWeb
-	Le script notebook et le model enrégistré se trouve dans le dossier CAC40
+	Le script notebook et le model enrégistré se trouvent dans le dossier CAC40
 ## installation
 <pre><code>
  pip install plotly
